@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [passward generator app] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [club clash]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Lakshmi.k] - [AISAT]
+- Member 2: [Adhiti Menon] - [AISAT]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A password generator app is a tool that automatically creates strong, random passwords to help protect user accounts from unauthorized access. It allows users to customize password length and include options like uppercase letters, numbers, and special characters. By using complex combinations, the app improves online security and reduces the risk of hacking.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Many people use weak passwords that are easy for hackers to guess.
+Users find it hard to create strong and secure passwords on their own.]
 
 ### The Solution
-[How are you solving it?]
+[A password generator app creates strong, random passwords automatically, helping users avoid weak and easily guessed passwords. It also encourages the use of unique passwords for different accounts, improving overall online security.]
 
 ---
 
@@ -46,10 +47,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Generates strong and random passwords instantly.]
+- Feature 2: [Allows users to customize password length and character types.]
+- Feature 3: [Provides copy or save option for easy use.]
+- Feature 4: [Helps create unique passwords for different accounts to improve security.]
 
 ---
 
@@ -83,10 +84,12 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![![Screenshot_28-2-2026_19037_opulent-chainsaw-v64xgx4v54w5cwjjg github dev](https://github.com/user-attachments/assets/8aca52a0-1eaa-4a86-9031-364df27120ca)
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![Screenshot_28-2-2026_19056_opulent-chainsaw-v64xgx4v54w5cwjjg github dev](https://github.com/user-attachments/assets/f15b569a-ce19-4aaa-b814-55233a6a98bd)
+](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
